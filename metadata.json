@@ -1,0 +1,6 @@
+{
+  "name": "A4 一键批量打印",
+  "description": "纯本地浏览器端批量打印工具，支持PDF、Word、Excel、PPT、图片及文本文件合并一键按顺序打印到A4纸，无多余空白页与排版错位。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
